@@ -1,3 +1,3 @@
 # containers
 
-A set of various docker helper images
+A set of various docker images
