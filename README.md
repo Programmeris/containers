@@ -1,3 +1,3 @@
 # containers
 
-A Docker image stuff
+A Docker images stuff
